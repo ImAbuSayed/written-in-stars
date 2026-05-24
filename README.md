@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/written-in-stars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Written In Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/written-in-stars/) |
+| **Get License** | [Commercial Licensing for Written In Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/written-in-stars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2041)
 
 ---
 
