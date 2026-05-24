@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/written-in-stars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Written In Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/written-in-stars/) |
+| **Get License** | [Secure Licensing Rights for Written In Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/written-in-stars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour the whiskey, dim the lights, let the shadows fall,
+> I don't need a crowded room, when I have it all,
+> Every breath is pulling me closer to the spark,
+> We are written in the stars, glowing in the dark.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
