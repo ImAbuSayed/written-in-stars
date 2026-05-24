@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Written In Stars
+
+This log tracks the cryptographic history and versioning for the song **Written In Stars** (written-in-stars).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:00:39.004085 | `v1` | `8f32e0536e700025885c4b62cefd1a90ef60de62c3e237baca3d3cb65bdaa368` | `810068879288d9862f77cc756352d87814fee41efa026bbaeb75063cec2dfecd` | `2026-05-25_written-in-stars-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
